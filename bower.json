@@ -15,7 +15,8 @@
     "**",
     "!/build/**",
     "!/bower.json",
-    "!/README*"
+    "!/README*",
+    "!/LICENSE*"
   ],
   "dependencies": {}
 }
