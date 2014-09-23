@@ -1,22 +1,22 @@
 {
-  "name": "rubyish-front-seed",
-  "version": "0.0.0",
-  "homepage": "https://github.com/anotherpit/rubyish-front-seed",
-  "authors": [
-    "anotherpit <anotherpit@gmail.com>"
-  ],
-  "description": "",
-  "main": [
-    "build"
-  ],
-  "license": "MIT",
-  "private": false,
-  "ignore": [
-    "**",
-    "!/build/**",
-    "!/bower.json",
-    "!/README*",
-    "!/LICENSE*"
-  ],
-  "dependencies": {}
+    "name": "rubyish-front-seed",
+    "version": "0.0.0",
+    "homepage": "https://github.com/anotherpit/rubyish-front-seed",
+    "authors": [
+        "anotherpit <anotherpit@gmail.com>"
+    ],
+    "description": "",
+    "main": [
+        "build"
+    ],
+    "license": "MIT",
+    "private": false,
+    "ignore": [
+        "**",
+        "!/build/**",
+        "!/bower.json",
+        "!/README*",
+        "!/LICENSE*"
+    ],
+    "dependencies": {}
 }
